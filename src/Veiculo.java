@@ -6,7 +6,7 @@ public abstract class Veiculo {
         this.km = km;
     }
     public Veiculo(){ //construtor com condição galerinha
-        preco = 3000;
+        preco = 30000;
         km = 0;
     }
 
